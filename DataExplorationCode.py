@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 # let improt important packages, set working directory and 
 # set up working directory 
 import os
